@@ -8,7 +8,7 @@ Open source 16-bit operating system for x86 PCs
 Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
 ```
 
-MikeOS is a 16-bit real mode operating system for x86-compatible PCs, 
+MikeOS is a 16-bit real mode Operating system for x86-compatible PCs, 
 written entirely in assembly language, which boots from a floppy disk,
 CD-ROM or USB key. It features a text-based dialog-driven user
 interface, a command-line, support for FAT12 (MS-DOS-like) floppy
